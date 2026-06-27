@@ -1,0 +1,18 @@
+{
+    "DEEPGRAM_API_KEY": "12f976a1edff3c64edca1281857fb99fb43fcdab",
+    "GROQ_API_KEY": "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",
+    "REDIS_URL": "rediss://default:gQAAAAAAAetbAAIgcDExODBkNTdjY2MxMmI0ZmE4YTAzMzcwMzczYTU1MGNiYQ@growing-blowfish-125787.upstash.io:6379",
+    "TTS_VOICE": "aura-2-orion-en",
+    "TTS_ENCODING": "linear16",
+    "TTS_SAMPLE_RATE": "24000",
+    "TTS_CONTAINER": "wav",
+    "TTS_CHUNK_SIZE": "4096",
+    "WHISPER_MODEL": "whisper-large-v3",
+    "STT_LANGUAGE": "en",
+    "GROQ_CHAT_MODEL": "llama-3.3-70b-versatile",
+    "GROQ_CHAT_TEMPERATURE": "0.5",
+    "GROQ_MAX_TOKENS": "1024",
+    "API_PORT": "8000",
+    "API_HOST": "0.0.0.0",
+    "WEBHOOK_URL": "http://recruitermentsystem.runasp.net/api/Webhooks/interview_result"
+}

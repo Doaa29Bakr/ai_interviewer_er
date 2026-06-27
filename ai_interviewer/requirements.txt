@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+groq
+httpx
+pydantic
+redis
+requests
+websockets
+python-multipart
+numpy
