@@ -1,7 +1,7 @@
 {
-    "DEEPGRAM_API_KEY": "12f976a1edff3c64edca1281857fb99fb43fcdab",
-    "GROQ_API_KEY": "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",
-    "REDIS_URL": "rediss://default:gQAAAAAAAetbAAIgcDExODBkNTdjY2MxMmI0ZmE4YTAzMzcwMzczYTU1MGNiYQ@growing-blowfish-125787.upstash.io:6379",
+    "DEEPGRAM_API_KEY": "",
+    "GROQ_API_KEY": "",
+    "REDIS_URL": "",
     "TTS_VOICE": "aura-2-orion-en",
     "TTS_ENCODING": "linear16",
     "TTS_SAMPLE_RATE": "24000",
